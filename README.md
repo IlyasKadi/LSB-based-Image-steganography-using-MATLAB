@@ -50,10 +50,6 @@ To get a local copy up and running follow these simple example steps.
  
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-<div align="center">
-    <img src="https://user-images.githubusercontent.com/80456274/152737429-ada47ee7-6b52-4803-8831-c5182fbce0b8.gif" alt="tuto-game" width="550" height="380">  
-    <h5><font color='gris'>LSB based Image steganography</font></h5>
-</div>
 
 
 
