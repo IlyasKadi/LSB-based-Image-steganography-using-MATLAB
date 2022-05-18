@@ -62,13 +62,6 @@ To get a local copy up and running follow these simple example steps.
 
 
 
-## Welcome-interface
-
-<div align="center">
-    <img src="https://user-images.githubusercontent.com/80456274/152737637-02c4bb77-63a5-47af-852e-18f015b58d7b.png" alt="tuto-game" width="" height="">       
-</div>
-
-
 # Part-II
 
 
