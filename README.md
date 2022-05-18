@@ -95,7 +95,9 @@ Matlab program for Image Steganography using Least Significant Bit (LSB) Algorit
 4. Open <b>LSB.m</b> file and click Run button.
 
 You will see this GUI:
-<img src="IMG_SCREENSHOTS/Program GUI.jpg" alt="Program GUI" height="400"/>
+<div align="center"> 
+<img src="https://user-images.githubusercontent.com/80456274/169093991-8ab40cc6-b90c-4198-b5d2-a5419afbb78c.jpg" alt="Program GUI"/>
+</div>
 </pre>
 
 ## How to Hide
