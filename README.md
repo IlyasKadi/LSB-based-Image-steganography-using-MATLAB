@@ -59,6 +59,20 @@ To get a local copy up and running follow these simple example steps.
 
 # Part-I 
 
+# Image Steganography using LSB Algorithm
+
+Matlab program for Image Steganography using Least Significant Bit (LSB) Algorithm with the following features:
+- Hiding text data in a selected  image.
+- Extract text data from a selected image.
+- Analyze and compare between the original and stego-image (PSNR and Histogram)
+
+## Files
+<pre>
+<b>LSB.m :</b> GUI for the program.
+<b>LSB_HIDE.m :</b> Hide function.
+<b>LSB_EXTRACT.m :</b> Extracting function.
+<b>Calc_PSNR.m :</b> PSNR calculator function.
+</pre>
 
 
 # Part-II
