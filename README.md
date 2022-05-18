@@ -112,7 +112,9 @@ You will see this GUI:
 6. Click on "Statistics" button for Histogram between the original and stege-image.
 
 After Hiding <b>msg-4000ch.txt</b> you will see this:
-<img src="https://user-images.githubusercontent.com/80456274/169105225-96d9c65c-42d9-42f8-9b54-c8cff2b1ebdb.jpg" alt="Hide ch inside Image" height="400"/>
+<div align="center">
+<img src="https://user-images.githubusercontent.com/80456274/169105225-96d9c65c-42d9-42f8-9b54-c8cff2b1ebdb.jpg" alt="Hide ch inside Image" />
+</div>
 </pre>
 
 ## How to Extract
@@ -125,14 +127,18 @@ After Hiding <b>msg-4000ch.txt</b> you will see this:
 6. Open the path then you will see your extracted file.
 
 After Extracting <b>stego-img500.bmp</b> you will see this:
-<img src="https://user-images.githubusercontent.com/80456274/169105145-8705f509-df15-4ecd-a26f-cba8f06a4b02.jpg" alt="Extract Program" height="400"/>
+<div align="center">
+<img src="https://user-images.githubusercontent.com/80456274/169105145-8705f509-df15-4ecd-a26f-cba8f06a4b02.jpg" alt="Extract Program" />
+</div>
 Your extracted file <b>Recover-msg.txt</b>:
 <img src="https://user-images.githubusercontent.com/80456274/169105026-8aa10879-6b04-4632-8812-8e661187f6be.jpg" alt="Extract" height="200"/>
 </pre>
 
 ## Histogram
 <pre>
+<div align="center">
 <img src="IMG_SCREENSHOTS/Histogram-orig-32000ch.jpg" alt="Histogram between original and stego4=32000ch image" height="400"/>
+</div>
 <b>Histogram between original image and stego-image after hiding 32000 character:</b>
 </pre>
 
