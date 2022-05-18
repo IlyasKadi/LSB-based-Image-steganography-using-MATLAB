@@ -71,7 +71,6 @@ This technique works best when the file is longer than the message file and if i
 <img src="https://user-images.githubusercontent.com/80456274/169081373-27614d4a-8c7a-44ee-9343-e7d4a8a4824c.png" alt="Program GUI"/>
 </div>
 
-
 Matlab program for Image Steganography using Least Significant Bit (LSB) Algorithm with the following features:
 - Hiding text data in a selected  image.
 - Extract text data from a selected image.
