@@ -63,7 +63,8 @@ To get a local copy up and running follow these simple example steps.
 ## Files
 
 <pre>
-In image steganography the information is hidden exclusively in images. The most common and popular method of modern day steganography is to make use of LSB (least significant bit) of picture's pixel information. This technique works best when the file is longer than the message file and if image is grayscale.
+In image steganography the information is hidden exclusively in images. The most common and popular method of modern day steganography is to make use of LSB (least
+significant bit) of picture's pixel information. This technique works best when the file is longer than the message file and if image is grayscale.
 ![Steganography-system](https://user-images.githubusercontent.com/80456274/169081373-27614d4a-8c7a-44ee-9343-e7d4a8a4824c.png)
 
 Matlab program for Image Steganography using Least Significant Bit (LSB) Algorithm with the following features:
