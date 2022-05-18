@@ -77,7 +77,52 @@ Matlab program for Image Steganography using Least Significant Bit (LSB) Algorit
 
 # Part-II
 
+## How to Run Program
+<pre>
+1. Download project.
+2. Open MATLAB program.
+3. Open the directory of the project.
+4. Open <b>LSB.m</b> file and click Run button.
 
+You will see this GUI:
+<img src="IMG_SCREENSHOTS/Program GUI.jpg" alt="Program GUI" height="400"/>
+</pre>
+
+## How to Hide
+<pre>
+1. Run program.
+2. Click on Hide tab.
+3. Click on "Select Cover Image" button and select your original image.
+4. Click on "Select a Text" button and select your text.
+   (I have added examples of different 500, 4000 and 32000 character sizes for test).
+5. Click on "Encrypt" button that will ask you for path to save.
+5. You will see a PSNR will automatically.
+6. Click on "Statistics" button for Histogram between the original and stege-image.
+
+After Hiding <b>msg-4000ch.txt</b> you will see this:
+<img src="IMG_SCREENSHOTS/Stego-with-4000ch.jpg" alt="Hide 500ch inside Image" height="400"/>
+</pre>
+
+## How to Extract
+<pre>
+1. Run program.
+2. Click on Extract tab.
+3. Click on "Select Stego-Image" button and select your stego-image.
+4. Click on "Extract" button that will ask you for path to save.
+5. You will see an Alert tell you "Extracted done".
+6. Open the path then you will see your extracted file.
+
+After Extracting <b>stego-img500.bmp</b> you will see this:
+<img src="IMG_SCREENSHOTS/Extracted.jpg" alt="Extract Program" height="400"/>
+Your extracted file <b>Recover-msg.txt</b>:
+<img src="IMG_SCREENSHOTS/Recover-msg.jpg" alt="Extract" height="200"/>
+</pre>
+
+## Histogram
+<pre>
+<img src="IMG_SCREENSHOTS/Histogram-orig-32000ch.jpg" alt="Histogram between original and stego4=32000ch image" height="400"/>
+<b>Histogram between original image and stego-image after hiding 32000 character:</b>
+</pre>
 
 # Last-words
 
