@@ -126,6 +126,11 @@ Your extracted file <b>Recover-msg.txt</b>:
 
 # Last-words
 
+## Notes
+- The higher PSNR indicates that the quality of the stego-image is similar to the cover image.
+- The larger image size, the more data you can hide.
+- For a 24-bit color image as the cover image, you can store approximately 3/8th of the cover image size.
+- For a grayscale image as the cover image, you can store approximately 1/8th of the cover image size.
 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
