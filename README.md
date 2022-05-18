@@ -137,7 +137,7 @@ Your extracted file <b>Recover-msg.txt</b>:
 ## Histogram
 <pre>
 <div align="center">
-<img src="IMG_SCREENSHOTS/Histogram-orig-32000ch.jpg" alt="Histogram between original and stego4=32000ch image" height="400"/>
+<img src="https://user-images.githubusercontent.com/80456274/169106038-ab2c9f98-4b33-4a8c-a565-c3c85fd71ca2.jpg" alt="Histogram between original and stego4=32000ch image" height="400"/>
 </div>
 <b>Histogram between original image and stego-image after hiding 32000 character:</b>
 </pre>
