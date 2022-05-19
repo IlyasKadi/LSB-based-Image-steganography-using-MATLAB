@@ -11,31 +11,6 @@
 
 <!-- TABLE OF CONTENTS -->
 
-  <summary>Table of Contents</summary>
-  <ol>      
-      <a href="#about-the-project">About The Project</a>         
-  </ol>
-  <ol>
-    <li>
-      <a href="#Part-I">Part I : </a>
-         <ul>
-              <li><a href="#"> </a></li>
-              <li><a href="#"> </a></li>
-              <li><a href="#"> </a></li>
-           </ul>
-    </li>
-        <li>
-            <a href="#Part-II">Part II :  </a>
-            <ul> 
-              <li><a href="# "> </a></li>
-              <li><a href="# "> </a></li>
-              <li><a href="# "> </a></li>
-            </ul>
-           </li> 
-        <li><a href="#Part-III">Part III : </a></li>
-   </ol>
-
-
 
 <!-- ABOUT THE PROJECT -->
 # About The Project
@@ -53,7 +28,7 @@ To get a local copy up and running follow these simple example steps.
 
 
 
-# Part-I 
+
 
 # Image Steganography using LSB Algorithm
 
@@ -81,7 +56,7 @@ Matlab program for Image Steganography using Least Significant Bit (LSB) Algorit
 </pre>
 
 
-# Part-II
+
 
 ## How to Run Program
 <pre>
@@ -137,8 +112,6 @@ Your extracted file <b>Recover-msg.txt</b>:
 </div>
 <b>Histogram between original image and stego-image after hiding 32000 character:</b>
 </pre>
-
-# Last-words
 
 ## Notes
 - The higher PSNR indicates that the quality of the stego-image is similar to the cover image.
